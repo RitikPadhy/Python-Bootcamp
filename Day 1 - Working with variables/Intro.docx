@@ -1,0 +1,13 @@
+- This course covers topics related to web scraping, python scripting, game dev, web design, OOPS, Automation, API, GUI Dev, Web dev and data
+science. The course goes from beginner to professional. 
+- This section is about printing, commenting, debugging, string manipulation and variables. You will have also created a band name generator 
+program. Used for generating a name for your band. We will be seeing into printing, inputting, commenting, debugging, name errors and syntax 
+errors.
+- "" means string/ string of characters. # - single line comment. print() is used to print a statement. Syntax highlighting is seen when an 
+error is seen in our syntax.
+- Indentation meaning spaces/ tabs is important in Python. There should not be a whitespace before (), be careful where you use spaces.
+- While executing a input function, and entering your value you will see that the run button has changed showing that the program is still 
+getting processed.
+- To comment code, use # for single line comment. Use Ctrl + / to comment code and get back the code use the same keys.
+- To get the lengh of a string, use the len() function.
+- Name of a varaible has to be a single entity, cannot start with a number, can use underscore, should not be a function name
